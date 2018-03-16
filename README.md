@@ -81,7 +81,7 @@
 
 
 | 6 | 7 | 8 | 9 | 10  |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | 
 | armpit_left | armpit_right |waistline_left | waistline_right | cuff_left_in| 
 
 
